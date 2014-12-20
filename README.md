@@ -6,8 +6,10 @@ The EEObserverMixin adds a `.listenTo` method to your React component. Events th
 
 ### Usage
 
+`npm install ee-observer-mixin`
+
 ```js
-componentDidMount: function () {
-  this.listenTo(eventEmitter, 'eventName', callback);
-}
+  componentDidMount: function () {
+    this.listenTo(eventEmitter, 'eventName', callback);
+  }
 ```

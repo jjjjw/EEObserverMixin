@@ -1,6 +1,6 @@
 {
   "name": "ee-observer-mixin",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Mixin for listening to Event Emitters from React components",
   "main": "index.js",
   "scripts": {
